@@ -1,0 +1,276 @@
+{
+  "author": "arthuro555 (Arthur Pacaud)",
+  "description": "See all apis on https://github.com/greenheartgames/greenworks/tree/master/docs and follow my guide to Learn how to use it.\n\nChangelog:\n\n- Modified Init to not be influenced by the variables default value (0 -> 2)\n- Added Expression for checking if a game was bought or not",
+  "extensionNamespace": "",
+  "fullName": "Steam API Wrapper",
+  "helpPath": "",
+  "iconUrl": "",
+  "name": "Greenworks",
+  "previewIconUrl": "",
+  "shortDescription": "Wraps the Greenworks api for GDevelop",
+  "version": "0.1.1",
+  "tags": [
+    "achievements",
+    "steam",
+    "api"
+  ],
+  "authorIds": [],
+  "dependencies": [],
+  "eventsFunctions": [
+    {
+      "description": "Put this in an initialization scene. The init state variable will contain 2 if steam didn't initialize properly. If there are no problems it will be 1.",
+      "fullName": "Initialize the steam API",
+      "functionType": "Action",
+      "name": "InitSteamAPI",
+      "private": false,
+      "sentence": "Inintialize Steam API with App ID _PARAM2_ and put init state in global variable _PARAM1_",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "process.activateUvLoop()\nlet greenworks = require(\"greenworks\");\ngreenworks.restartAppIfNecessary(eventsFunctionContext.getArgument(\"appID\"))\nlet runtimeGame = runtimeScene.getGame();\nlet steamInit = runtimeGame\n  .getVariables()\n  .get(eventsFunctionContext.getArgument(\"initStateVariable\"));\n\nruntimeGame.greenworks = greenworks;\n\nif (greenworks.init()){\n    steamInit.setNumber(1)\n} else steamInit.setNumber(2);\n",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
+        }
+      ],
+      "parameters": [
+        {
+          "codeOnly": false,
+          "defaultValue": "",
+          "description": "Name of the variable containing the init state.",
+          "longDescription": "",
+          "name": "initStateVariable",
+          "optional": false,
+          "supplementaryInformation": "",
+          "type": "string"
+        },
+        {
+          "codeOnly": false,
+          "defaultValue": "",
+          "description": "AppID to provide to steam to launch with steam if it wasn't.",
+          "longDescription": "",
+          "name": "appID",
+          "optional": false,
+          "supplementaryInformation": "",
+          "type": "expression"
+        }
+      ],
+      "objectGroups": []
+    },
+    {
+      "description": "Returns 1 if steam is running, else returns 0.",
+      "fullName": "Is Steam Running?",
+      "functionType": "Expression",
+      "name": "SteamRunning",
+      "private": false,
+      "sentence": "",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "let runtimeGame = runtimeScene.getGame();\r\nlet greenworks = runtimeGame.greenworks;\r\nif (greenworks === undefined){\r\n    throw new Error(\"Trying to access Greenworks even if not initialized.\")\r\n}\r\n\r\nif (greenworks.isSteamRunning()) {eventsFunctionContext.returnValue = 1} else eventsFunctionContext.returnValue = 0;\r\n",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
+        }
+      ],
+      "parameters": [],
+      "objectGroups": []
+    },
+    {
+      "description": "Triggers a steam achievement",
+      "fullName": "Achieve an achievement",
+      "functionType": "Action",
+      "name": "Achieve",
+      "private": false,
+      "sentence": "Trigger Steam Achievement _PARAM1_ and store result in _PARAM2_",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "let runtimeGame = runtimeScene.getGame();\nlet greenworks = runtimeGame.greenworks;\nif (greenworks === undefined){\n    throw new Error(\"Trying to access Greenworks even if not initialized.\")\n}\n\nlet retVar = runtimeScene\n  .getVariables()\n  .get(eventsFunctionContext.getArgument(\"VariableReturnState\"));\n\ngreenworks.activateAchievement(\n    eventsFunctionContext.getArgument(\"Achievement_ID\"),\n    function (s) {retVar.setString(JSON.stringify(s))},\n    function (s) {retVar.setString(JSON.stringify(s))}\n)\n",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
+        }
+      ],
+      "parameters": [
+        {
+          "codeOnly": false,
+          "defaultValue": "",
+          "description": "Achievement ID",
+          "longDescription": "",
+          "name": "Achievement_ID",
+          "optional": false,
+          "supplementaryInformation": "",
+          "type": "string"
+        },
+        {
+          "codeOnly": false,
+          "defaultValue": "",
+          "description": "Name of the scene variable where to store the result",
+          "longDescription": "",
+          "name": "VariableReturnState",
+          "optional": false,
+          "supplementaryInformation": "",
+          "type": "string"
+        }
+      ],
+      "objectGroups": []
+    },
+    {
+      "description": "Removes a steam achievement",
+      "fullName": "Remove an achievement",
+      "functionType": "Action",
+      "name": "UnAchieve",
+      "private": false,
+      "sentence": "Remove Steam Achievement _PARAM1_ and store result in _PARAM2_",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "let runtimeGame = runtimeScene.getGame();\nlet greenworks = runtimeGame.greenworks;\nif (greenworks === undefined){\n    throw new Error(\"Trying to access Greenworks even if not initialized.\")\n}\n\nlet retVar = runtimeScene\n  .getVariables()\n  .get(eventsFunctionContext.getArgument(\"VariableReturnState\"));\n\ngreenworks.clearAchievement(\n    eventsFunctionContext.getArgument(\"Achievement_ID\"),\n    function (s) {retVar.setString(JSON.stringify(s))},\n    function (s) {retVar.setString(JSON.stringify(s))}\n)\n",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
+        }
+      ],
+      "parameters": [
+        {
+          "codeOnly": false,
+          "defaultValue": "",
+          "description": "Achievement ID",
+          "longDescription": "",
+          "name": "Achievement_ID",
+          "optional": false,
+          "supplementaryInformation": "",
+          "type": "string"
+        },
+        {
+          "codeOnly": false,
+          "defaultValue": "",
+          "description": "Name of the scene variable where to store the result",
+          "longDescription": "",
+          "name": "VariableReturnState",
+          "optional": false,
+          "supplementaryInformation": "",
+          "type": "string"
+        }
+      ],
+      "objectGroups": []
+    },
+    {
+      "description": "Used to check if the user has bought a game using the app id of the game in question. Use that to verify your game was bought or to actvate special events when the user possesses a specific other game. Returns 1 if bought, returns 2 when not bought.",
+      "fullName": "Was a game bought by the user?",
+      "functionType": "Expression",
+      "name": "GameBought",
+      "private": false,
+      "sentence": "",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "let runtimeGame = runtimeScene.getGame();\nlet greenworks = runtimeGame.greenworks;\nif (greenworks === undefined){\n    throw new Error(\"Trying to access Greenworks even if not initialized.\")\n}\n\nlet appID = eventsFunctionContext.getArgument(\"AppID\");\neventsFunctionContext.returnValue = greenworks.isSubscribedApp(appId);\n",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
+        }
+      ],
+      "parameters": [
+        {
+          "codeOnly": false,
+          "defaultValue": "",
+          "description": "The App ID of the game to check",
+          "longDescription": "",
+          "name": "AppID",
+          "optional": false,
+          "supplementaryInformation": "",
+          "type": "expression"
+        }
+      ],
+      "objectGroups": []
+    }
+  ],
+  "eventsBasedBehaviors": []
+}

@@ -1,0 +1,52 @@
+{
+  "associatedLayout": "savedworld",
+  "name": "chestinv",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "1",
+      "locked": false,
+      "name": "coffreinv",
+      "persistentUuid": "bc317f21-c6ae-4b5f-ba0b-9d866b646a1c",
+      "width": 0,
+      "x": 1007,
+      "y": 150,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "1",
+      "locked": false,
+      "name": "chestname",
+      "persistentUuid": "76e6b789-4c7a-4046-995f-b12195092a0a",
+      "width": 0,
+      "x": 1038,
+      "y": 100,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 50,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 50,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.784
+  }
+}

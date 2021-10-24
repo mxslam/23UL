@@ -1,0 +1,6972 @@
+{
+  "b": 9,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "donjonrouge2",
+  "name": "donjonrouge2",
+  "oglFOV": 90,
+  "oglZFar": 500,
+  "oglZNear": 1,
+  "r": 20,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 1,
+  "uiSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 50,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 50,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.1339999999999998
+  },
+  "objectsGroups": [
+    {
+      "name": "Group2",
+      "objects": []
+    }
+  ],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 2950,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "35e6a3a1-b014-4eab-b752-baaea824acab",
+      "width": 50,
+      "x": 4,
+      "y": -2150,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": true,
+      "name": "colred",
+      "persistentUuid": "eb37200a-8c93-4c6f-a499-c7c3873144f8",
+      "width": 1250,
+      "x": 1250,
+      "y": -1750,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 2150,
+      "layer": "",
+      "locked": true,
+      "name": "colred",
+      "persistentUuid": "0af3e5e3-b55c-4fa4-a25a-127c5323ab67",
+      "width": 50,
+      "x": 2450,
+      "y": -1700,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 2100,
+      "layer": "",
+      "locked": true,
+      "name": "colred",
+      "persistentUuid": "34fe60c4-462b-46a4-b363-7ee3ed110f3f",
+      "width": 50,
+      "x": 3350,
+      "y": -2550,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "cb67d41b-d1ab-42fa-a63b-e4373cc8c3c8",
+      "width": 3400,
+      "x": 2500,
+      "y": 400,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 2100,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "9adb6242-92f5-4333-bc77-09ecf30cc7a8",
+      "width": 50,
+      "x": 4950,
+      "y": -2550,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 2950,
+      "layer": "",
+      "locked": true,
+      "name": "colred",
+      "persistentUuid": "9ca9bc30-d6ad-45c2-a020-6b64b5e4893d",
+      "width": 50,
+      "x": 5850,
+      "y": -2550,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "53b45dd1-476c-48a3-a756-edaa860ba890",
+      "width": 850,
+      "x": 5000,
+      "y": -2550,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "9cc64545-266b-4362-98d8-92352d727184",
+      "width": 250,
+      "x": 50,
+      "y": -1100,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "505104f1-af31-4a63-b2e6-69c5aeeda630",
+      "width": 950,
+      "x": 300,
+      "y": -1100,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "c80b04bc-5520-4bb6-8202-8aa75145affb",
+      "width": 450,
+      "x": 2500,
+      "y": -450,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "b3cf825d-8d0a-4539-b94a-27a41ce7dce6",
+      "width": 500,
+      "x": 5050,
+      "y": -250,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "a7067ea7-e277-4dc3-9f61-db6bc717de78",
+      "width": 300,
+      "x": 5050,
+      "y": -950,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "3a46badf-2529-4abd-89da-88cda9db58bc",
+      "width": 300,
+      "x": 5500,
+      "y": -950,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "0e2573ac-42e6-45f4-b407-6c87f696cf5a",
+      "width": 300,
+      "x": 5050,
+      "y": -500,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "6772db38-2b6a-43a2-9f7d-345ee5c0a1bc",
+      "width": 300,
+      "x": 5500,
+      "y": -500,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "1bfa99e7-85fe-472c-b20a-877490d0c622",
+      "width": 0,
+      "x": 5150,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "629b2734-06e0-4dc2-b2e0-ed98de3e03c2",
+      "width": 0,
+      "x": 5100,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "5600d971-4be9-4e7a-adef-d7f9896f8830",
+      "width": 0,
+      "x": 5050,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "63a7960d-8d69-4d95-8907-83f331d483ea",
+      "width": 0,
+      "x": 750,
+      "y": -1250,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "9a5ee30a-6fcf-47d2-88a4-3ee2bb290f5a",
+      "width": 0,
+      "x": 3300,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "14575135-f097-4935-84bf-eba30a756a6f",
+      "width": 0,
+      "x": 3200,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6312a47e-1d17-4c6f-8b91-5e3a601dbfd6",
+      "width": 0,
+      "x": 3250,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "d0bd37ba-0ac8-4df1-850a-d8e430f2e811",
+      "width": 0,
+      "x": 850,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "914b0e46-623e-4c99-8b3f-3561c3f5bc4a",
+      "width": 0,
+      "x": 800,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "cfc89b33-4201-4a8f-930c-3e09da05d5d3",
+      "width": 0,
+      "x": 750,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a4033f30-5428-4765-83cb-0e9cca087e69",
+      "width": 0,
+      "x": 700,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a93a0ca8-4610-41d1-b44b-dc861bc7f8a0",
+      "width": 0,
+      "x": 650,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "5d42ade0-962a-4808-86f1-1c57c352af32",
+      "width": 0,
+      "x": 600,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f2c2fc43-c13d-42da-9e72-0156241b6197",
+      "width": 0,
+      "x": 550,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "fa4910e2-a0b9-4c2f-bab8-7aabd114863f",
+      "width": 0,
+      "x": 4700,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "b8565904-c561-4a51-b506-cfda5ef3192f",
+      "width": 0,
+      "x": 4600,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "3fa867a8-2bf6-4f3e-b8a3-c1763b80a6a2",
+      "width": 0,
+      "x": 4650,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f102c06b-b399-4a79-b0be-be244d3f3544",
+      "width": 0,
+      "x": 350,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a724515f-f7c5-459a-aa56-838a1d4ce7cc",
+      "width": 0,
+      "x": 300,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6935ecac-5edf-4066-9ab6-4c1a49ea4278",
+      "width": 0,
+      "x": 500,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "ff704333-930e-4525-a896-f35ae4e4205f",
+      "width": 0,
+      "x": 400,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a6876721-4d38-4052-bcb0-39890770a11c",
+      "width": 0,
+      "x": 450,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "37b06c0a-f990-418b-8e6c-8d3f25bae6a4",
+      "width": 0,
+      "x": 5500,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "d74527ce-ce7e-4d8e-9e0a-2575c26c2512",
+      "width": 0,
+      "x": 5450,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "940e76a2-9549-47a6-88b8-a94cd09cf833",
+      "width": 0,
+      "x": 5400,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f482b916-c3e3-4434-b1d1-af405a9a39e7",
+      "width": 0,
+      "x": 5350,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "079366a1-e00f-442a-b682-ad7d101a8768",
+      "width": 0,
+      "x": 5300,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "0b25fabc-fa59-4c00-949e-b59cee5ac75d",
+      "width": 0,
+      "x": 5250,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c6486196-cca9-4192-acb8-bcf7d6c6c8f9",
+      "width": 0,
+      "x": 5050,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "3038709e-e953-461c-bb9b-5b26551f63d4",
+      "width": 0,
+      "x": 5000,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "273fe523-1c33-4f19-932c-0ae93f307064",
+      "width": 0,
+      "x": 4950,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "62518e2f-9a86-4dd8-a3d0-fb36bbbac400",
+      "width": 0,
+      "x": 4900,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "372808e8-303f-4ff1-9a00-9f244bc0892c",
+      "width": 0,
+      "x": 4850,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "90dcf09f-c1af-49e3-a42b-22459c92548a",
+      "width": 0,
+      "x": 4800,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a1e7c513-4f52-4aae-8c32-3a451881582b",
+      "width": 0,
+      "x": 4750,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "44fc6644-b1a5-4130-a931-d54e3cce8ab3",
+      "width": 0,
+      "x": 5200,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "0f31fd28-583e-46bf-9298-86d53b396f80",
+      "width": 0,
+      "x": 5100,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c56ec93a-fe32-4452-8306-e6563e097256",
+      "width": 0,
+      "x": 5150,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "96b14b37-2278-46c3-b4b1-d18d348a9022",
+      "width": 0,
+      "x": 5300,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6fc56c97-3143-486e-b5d7-212dcc12863d",
+      "width": 0,
+      "x": 5250,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "3a663e74-be30-4274-8c4d-7ab3a76c4c7c",
+      "width": 0,
+      "x": 5200,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "baa84632-f16e-49c2-a376-c64b24973443",
+      "width": 0,
+      "x": 3150,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "7a825dec-7914-499a-bb7e-741130344fc4",
+      "width": 0,
+      "x": 3100,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "256635d6-d334-42c6-91a2-ff2d36b8bee9",
+      "width": 0,
+      "x": 3050,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "19e23c4b-2a5d-4b33-a82b-2256643ce262",
+      "width": 0,
+      "x": 2700,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6a96b973-be32-4555-910f-18e868a4b364",
+      "width": 0,
+      "x": 2650,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "e3e66c3b-4f73-4798-9c81-1e0ade306e5f",
+      "width": 0,
+      "x": 2600,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "960b0bdf-a0a1-492c-93ed-3ed756f53d02",
+      "width": 0,
+      "x": 2550,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "55eb9c77-da7f-47d0-8848-55724eed83af",
+      "width": 0,
+      "x": 2350,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c9494266-5207-4e31-b92c-366e865fa0da",
+      "width": 0,
+      "x": 2300,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "9ed3a961-b93a-44bf-ba97-0352d0ee22f1",
+      "width": 0,
+      "x": 2250,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "8326da76-af85-4217-97dd-0c0505bb44bb",
+      "width": 0,
+      "x": 2200,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c1ef43e9-918c-4426-a2e0-c178dd7e672b",
+      "width": 0,
+      "x": 2150,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "8c6aebe6-ea58-4f6b-be86-ad0eb3894779",
+      "width": 0,
+      "x": 2100,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "dff7f345-4b04-4dba-924d-389bc046a572",
+      "width": 0,
+      "x": 2050,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "15087902-d7ff-489e-9421-1f26d8b2892e",
+      "width": 0,
+      "x": 2500,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "2c20b605-c622-4e8b-863f-2204cf59d6be",
+      "width": 0,
+      "x": 2400,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "2e2dd8e5-f4f7-4db1-b99d-b7030edf4343",
+      "width": 0,
+      "x": 2450,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "275cc26e-5561-42f4-8b11-b8f3c111da06",
+      "width": 0,
+      "x": 1000,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "01792bc0-9b0c-4d57-bad1-aad512ba8201",
+      "width": 0,
+      "x": 900,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "033aab1a-27d2-40a0-ac9d-19cf0a2feeb5",
+      "width": 0,
+      "x": 950,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "02517227-8645-4dea-8870-72eeef277823",
+      "width": 0,
+      "x": 1800,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "b85ceb08-940f-4a29-a7ca-24fe58e4c1f0",
+      "width": 0,
+      "x": 1750,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "aaf451ae-baa0-4bb5-8a56-952f9e469ca8",
+      "width": 0,
+      "x": 1700,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a40d49fe-457f-476c-b5ed-6c4e9f74a9b1",
+      "width": 0,
+      "x": 1650,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6d45c599-6b0b-40b5-aac4-ad2fae8d5a7a",
+      "width": 0,
+      "x": 1600,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "7e6a20dc-483a-469c-8079-a8d6f3814e63",
+      "width": 0,
+      "x": 1550,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "db766800-1da8-4ca8-a35a-5a8dd3a80c90",
+      "width": 0,
+      "x": 2000,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6f423a82-538d-466b-85bc-4458beb2e4c3",
+      "width": 0,
+      "x": 1900,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "4f35f6f4-6f21-4f6b-941a-022c6f6a7348",
+      "width": 0,
+      "x": 1950,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "90fc4169-af66-4eeb-b162-f36519dc417e",
+      "width": 0,
+      "x": 1350,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "03cc6bd0-0f15-4635-9b97-801963763c0e",
+      "width": 0,
+      "x": 1300,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "8fe7580d-3a2d-4e93-bccc-9d8c425592cd",
+      "width": 0,
+      "x": 1250,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "254ea31e-6573-4b80-b85a-5d61a4859ac9",
+      "width": 0,
+      "x": 1200,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6f6cabe0-981f-46b2-87ad-852b94154339",
+      "width": 0,
+      "x": 1150,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "bb67278c-73a1-4efd-ab67-bcdda8ca869f",
+      "width": 0,
+      "x": 1100,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "d300fed2-991b-4857-9cf0-1e93f67c73dc",
+      "width": 0,
+      "x": 1050,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f8d35a69-e124-449a-a3c8-13db7d82b77b",
+      "width": 0,
+      "x": 1500,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "9a6bfa57-030e-4d0d-94d0-abd2627a3147",
+      "width": 0,
+      "x": 1400,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "716fc700-92e9-483c-a892-6c0aa112f08f",
+      "width": 0,
+      "x": 1450,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f3eb4fc8-72a9-41cf-9530-369eacb2d746",
+      "width": 0,
+      "x": 2850,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "779297b2-e493-4671-8922-abe16f05fec6",
+      "width": 0,
+      "x": 2800,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6732ac75-f91a-4d58-9802-c833597b4627",
+      "width": 0,
+      "x": 2750,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "97ea7e50-b339-48a9-9133-ef141ccd57af",
+      "width": 0,
+      "x": 3000,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "eaff605d-6232-4a6d-a5be-859fed6d2735",
+      "width": 0,
+      "x": 2900,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "77712319-8286-4b4c-90de-05e810e5fcf4",
+      "width": 0,
+      "x": 2950,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a8a86457-7da4-4e78-b4ef-096e97ff16ec",
+      "width": 0,
+      "x": 5750,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f1af53db-8436-4c07-bd43-4dd73138d294",
+      "width": 0,
+      "x": 5700,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "e6f5930f-aa9e-4f4a-ae5c-85e76c626b77",
+      "width": 0,
+      "x": 5650,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "695cc7b0-d2d9-4c8b-8114-4ddd8c9ef982",
+      "width": 0,
+      "x": 5600,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "4e627928-08f4-4543-8cf2-8e869cfe34d0",
+      "width": 0,
+      "x": 5550,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "7ea2da60-6c3b-470a-b13a-d7c4a5bc277d",
+      "width": 0,
+      "x": 5500,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f88ce88e-95b6-416e-a587-9fbd9f024ac4",
+      "width": 0,
+      "x": 5750,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "8d5c18d7-30e4-43ce-8aa6-649da0fd04d5",
+      "width": 0,
+      "x": 5700,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "34c649c6-16cf-421b-be5b-837da38cdd46",
+      "width": 0,
+      "x": 5650,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "451e4f66-818e-414b-849d-8d6db6b0c6dc",
+      "width": 0,
+      "x": 5600,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "fe794066-a700-4ab4-9ca8-176db8b4e291",
+      "width": 0,
+      "x": 5550,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "3b6bb00e-84c1-4eab-aee6-7e97536524c3",
+      "width": 0,
+      "x": 5500,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "da8feecc-96f3-4887-aabe-ff8aaaa45da6",
+      "width": 0,
+      "x": 5300,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "d218f8e5-fb7e-41ef-89b1-2c620b87c8fe",
+      "width": 0,
+      "x": 5250,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "048912fc-028b-4ef1-ba13-af355c3e1374",
+      "width": 0,
+      "x": 5200,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "7664be3a-0a1b-4b03-9c59-cd901d45e55d",
+      "width": 0,
+      "x": 5150,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f992e9dd-5b15-4f62-9e8f-a70e8a79f2b0",
+      "width": 0,
+      "x": 5100,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c3d5dc15-4cee-4de8-b5fa-a0f4d3cf878a",
+      "width": 0,
+      "x": 5050,
+      "y": -900,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "8ef191a8-1a20-48be-8cf1-f88a973d047e",
+      "width": 0,
+      "x": 5800,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c7c57703-2f50-413b-92f6-4d3236e3a475",
+      "width": 0,
+      "x": 5750,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "7e2784a3-69af-422c-ad91-0bea92691339",
+      "width": 0,
+      "x": 5700,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "23e830d6-d7e7-4fb1-a723-442102d6f48e",
+      "width": 0,
+      "x": 5650,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f6286df0-b085-40d0-862b-e171d3fe9b47",
+      "width": 0,
+      "x": 5600,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "e8aaf3ce-b7a1-4f1d-808a-2bcbd0c986ed",
+      "width": 0,
+      "x": 5300,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "b4fb2e9e-e3a4-403a-909b-78b46be3f12d",
+      "width": 0,
+      "x": 5250,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "2951720b-2120-4cb4-b8c6-8bef58e5333b",
+      "width": 0,
+      "x": 5200,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "24e1c37a-1a87-48e6-a211-205f81562dd2",
+      "width": 0,
+      "x": 5150,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f939b277-b0b7-400d-8da0-c5ea13b21b30",
+      "width": 0,
+      "x": 5100,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "239cfc79-b4e4-4b83-9769-4ffd63813386",
+      "width": 0,
+      "x": 5050,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "96f83a3b-efa6-4453-b082-2a7761483850",
+      "width": 0,
+      "x": 5000,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "695a0160-d597-4e21-8f05-a5fa238c441a",
+      "width": 0,
+      "x": 5550,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "7038f2b3-ef42-4ec1-9bcf-e9204f72e922",
+      "width": 0,
+      "x": 5500,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "72590621-ad7e-427a-b954-150093277ea0",
+      "width": 0,
+      "x": 5450,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c7bf74fd-c751-4aaa-9104-a45d1a2418cc",
+      "width": 0,
+      "x": 5350,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 450,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "bc53f733-0ab6-428a-be0d-f5762c48f55b",
+      "width": 50,
+      "x": 300,
+      "y": -2350,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "df58b0b2-ab71-4d7c-a3b0-55152cd25127",
+      "width": 1000,
+      "x": 50,
+      "y": -1700,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "7d801da1-ca72-456f-9965-d49446b2b034",
+      "width": 900,
+      "x": 350,
+      "y": -1500,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "89252322-a801-4ee1-80a5-913909bef539",
+      "width": 3350,
+      "x": 0,
+      "y": -2550,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "b1001aba-5387-41be-ad88-e4bd391f4de8",
+      "width": 450,
+      "x": 2500,
+      "y": -1650,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "ac2cf7d4-d529-4a24-a5ed-a1b6c826c841",
+      "width": 450,
+      "x": 2900,
+      "y": -1450,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "8a476461-1af8-4314-b4f8-121324bcb5f4",
+      "width": 450,
+      "x": 2500,
+      "y": -1250,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "78a4ba5e-d6e0-44ba-a126-1a1cc763573e",
+      "width": 450,
+      "x": 2900,
+      "y": -1050,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "b6a4334e-3057-4a3a-aa85-b9c90eed06ee",
+      "width": 450,
+      "x": 2900,
+      "y": -650,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 350,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "fdbc33e9-8e3b-4d30-93a1-28b0c43b1d40",
+      "width": 50,
+      "x": 0,
+      "y": -2500,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "926a2034-5736-4027-9d4f-66ffeec5b5a8",
+      "width": 1550,
+      "x": 3400,
+      "y": -500,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c34bc613-3f52-4342-935e-378f900a5b04",
+      "width": 0,
+      "x": 4800,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "1d28d843-7fbb-4079-b88d-591040b71ff8",
+      "width": 0,
+      "x": 4750,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "86e1a3cf-1de3-49f2-8fbf-183413194bb7",
+      "width": 0,
+      "x": 4700,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "79bd8cee-f227-499d-8529-f1ebcef87fc0",
+      "width": 0,
+      "x": 4650,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "28e6271f-8746-483d-9a11-d1ca55d0978b",
+      "width": 0,
+      "x": 4600,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "5e96a790-6ea4-47be-9a5c-b6a971804d82",
+      "width": 0,
+      "x": 4550,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "77ea9988-4afb-4152-a971-d15af589efdf",
+      "width": 0,
+      "x": 4500,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "5b9b0847-cd23-4e21-a4e5-4a0083a46a8f",
+      "width": 0,
+      "x": 4950,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "ac17b523-5bb5-45e1-8d8b-d2e08dbb1616",
+      "width": 0,
+      "x": 4850,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "fde8352b-b24b-4a97-9191-e68134d61b5e",
+      "width": 0,
+      "x": 4900,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a9942eb5-25ac-4bb3-ba9f-e668bf79b14a",
+      "width": 0,
+      "x": 3450,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "133aa493-3051-4558-9880-d2314559bcee",
+      "width": 0,
+      "x": 3350,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "0bca37be-12af-49bd-894e-483f1548160c",
+      "width": 0,
+      "x": 3400,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "81b39e2a-b571-47a9-b123-da09968ed29c",
+      "width": 0,
+      "x": 4300,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6b1e0d78-81e7-4546-8ca4-21dc465e04d4",
+      "width": 0,
+      "x": 4250,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "da31940a-6184-40b6-b5d1-74da6d0b6100",
+      "width": 0,
+      "x": 4200,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c730d54d-5b4c-46a1-ba76-04bc7fa26af8",
+      "width": 0,
+      "x": 4150,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "72854c1f-b900-4278-86bc-34063dcf5973",
+      "width": 0,
+      "x": 4100,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6b4e4e65-02ee-41b5-9f4c-9c80ee3eb6be",
+      "width": 0,
+      "x": 4050,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "72e9b3ce-c5cc-43c2-ae4c-c0e31beb7466",
+      "width": 0,
+      "x": 4000,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "fa6e3616-2390-4e44-b9b7-1b6a34e2121c",
+      "width": 0,
+      "x": 4450,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "599c323e-db44-42fa-af3f-9ed3ed4886c8",
+      "width": 0,
+      "x": 4350,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "9acd4438-76b2-4913-b38e-085880b245cd",
+      "width": 0,
+      "x": 4400,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a5b1e3a7-2f0f-4bac-8616-821599546005",
+      "width": 0,
+      "x": 3800,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6df628b0-586f-4481-b39a-0aa030cbbe8d",
+      "width": 0,
+      "x": 3750,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "94b93b52-f79a-4d4e-9e65-f14c666bed61",
+      "width": 0,
+      "x": 3700,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "4d6cfed7-cf12-4e4d-ba66-32e3a1b9a8d6",
+      "width": 0,
+      "x": 3650,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "20036205-16d3-4a4e-b067-88020cf2df12",
+      "width": 0,
+      "x": 3600,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c23bce8b-7749-4bef-a803-1cd7c785bb62",
+      "width": 0,
+      "x": 3550,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "d6880183-3ede-4cb8-a892-77f412960ed4",
+      "width": 0,
+      "x": 3500,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "214e64a2-9323-4153-bb97-bb7813684959",
+      "width": 0,
+      "x": 3950,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "b8a3fd8a-2143-4af2-a3a0-b93ce9435e04",
+      "width": 0,
+      "x": 3850,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "0dd8320c-a402-44fa-b9f6-2b1ff8567336",
+      "width": 0,
+      "x": 3900,
+      "y": -450,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "5667ca3f-f670-48bc-92ab-4c5f5ccd3633",
+      "width": 0,
+      "x": 4400,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "e46620f3-77c5-4d2f-90f4-408257a5aa86",
+      "width": 0,
+      "x": 4350,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6a3f612d-9c98-4c01-8313-57a0c7c68a50",
+      "width": 0,
+      "x": 4300,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "4d92ca95-b4f0-412a-bea7-c8bcdaa01f4d",
+      "width": 0,
+      "x": 4250,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "5a573e49-a940-4d44-accb-60e8cd179cbe",
+      "width": 0,
+      "x": 4200,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "db58d435-b8f3-466a-b723-cdaa9f46b650",
+      "width": 0,
+      "x": 4150,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "2bb2f8da-78f2-4524-ac18-f5dda7a6a94d",
+      "width": 0,
+      "x": 4100,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "fc19b3fa-195b-4416-9bbe-7f7a75a4e640",
+      "width": 0,
+      "x": 4500,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "168e3783-08d7-452a-9cb8-65643e711918",
+      "width": 0,
+      "x": 4450,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "17f82eea-d3aa-4b84-a60d-dca1300604cd",
+      "width": 0,
+      "x": 4550,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6a5dea0b-aff3-4d36-a4b9-eae0442b23ba",
+      "width": 0,
+      "x": 3050,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "77745c86-1ffb-43e9-8cb8-2c88f7926075",
+      "width": 0,
+      "x": 2950,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "58393bab-0bc6-439b-acc9-eb37332f794d",
+      "width": 0,
+      "x": 3000,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "61718bd6-8ebe-4c1e-88e7-785556f88492",
+      "width": 0,
+      "x": 3900,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f82946ed-d48f-4bc1-94b4-2bc3f8976b10",
+      "width": 0,
+      "x": 3850,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "918a8b2c-aa25-4a95-b304-3012aa5efdab",
+      "width": 0,
+      "x": 3800,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "b0a75a8b-dd30-4144-af64-3bbfba909ea6",
+      "width": 0,
+      "x": 3750,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "941817b2-b644-40f7-bbd0-cd1497365158",
+      "width": 0,
+      "x": 3700,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f78dc68b-bb30-4aee-a6d9-07e6ecd2426c",
+      "width": 0,
+      "x": 3650,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "f7b142c1-7bff-4ad1-a818-b11e6c2dece8",
+      "width": 0,
+      "x": 3600,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "d7b211c4-eec4-44a7-ad8f-fef199053d8d",
+      "width": 0,
+      "x": 4050,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "a6b449c3-6519-48a3-a8cf-1a5fdd2fb803",
+      "width": 0,
+      "x": 3950,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c3697db3-d558-40b5-82f1-fd115b650dc4",
+      "width": 0,
+      "x": 4000,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "b5c10480-e960-478e-8375-78bf05c3f3de",
+      "width": 0,
+      "x": 3400,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "802a422b-b2f5-495f-9b1d-0bea871050ea",
+      "width": 0,
+      "x": 3350,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "1b71ad5d-c005-4162-ba99-f04d6764c11c",
+      "width": 0,
+      "x": 3300,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "6f6f2f01-b17f-4fe6-a17f-1c982ec06e89",
+      "width": 0,
+      "x": 3250,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "33b73f03-a11a-4d17-b752-06ec575e0bb7",
+      "width": 0,
+      "x": 3200,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "e68c675e-3222-490a-a940-19ec59d20016",
+      "width": 0,
+      "x": 3150,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c8b1e2e9-6d54-4391-95eb-88c5d86ab247",
+      "width": 0,
+      "x": 3100,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "fe577ca6-a6f5-4e71-93a4-2b75892113fb",
+      "width": 0,
+      "x": 3550,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "d0047e7f-db99-4979-a096-3f1bfb998570",
+      "width": 0,
+      "x": 3450,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "10e1b2bb-6574-49d5-9855-5473f48d63fd",
+      "width": 0,
+      "x": 3500,
+      "y": -200,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "7360eb0e-ed03-4667-83c0-889d0e6df298",
+      "width": 900,
+      "x": 50,
+      "y": -1300,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "404a0168-521b-49eb-a1bf-a12faea76f3a",
+      "width": 1500,
+      "x": 300,
+      "y": -1900,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "3cd6c131-3c6c-4fce-b67b-eda68194d301",
+      "width": 150,
+      "x": 1450,
+      "y": -2250,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "ce6ab31d-3707-439a-b8c1-c9d710ffd073",
+      "width": 50,
+      "x": 2450,
+      "y": -2350,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 450,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "4ce9ff48-a056-4e39-826f-2454744b05e3",
+      "width": 150,
+      "x": 1800,
+      "y": -2300,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "313162d0-e33a-485f-9fc2-b645b9f4943e",
+      "width": 150,
+      "x": 3150,
+      "y": -2350,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "fce8ec22-8e1a-46d7-8f53-26c3708ad9b7",
+      "width": 1250,
+      "x": 0,
+      "y": 750,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "af8c1b52-6ce2-4a0e-b75f-394b2b449e15",
+      "width": 450,
+      "x": 2500,
+      "y": -850,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 2500,
+      "layer": "",
+      "locked": true,
+      "name": "colred",
+      "persistentUuid": "6d64da59-1c91-4244-959b-f03161f30cf8",
+      "width": 50,
+      "x": 1250,
+      "y": -1700,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "snakeboss",
+      "persistentUuid": "ad728b3f-ff94-4ce4-b6fa-e8841995524e",
+      "width": 0,
+      "x": 5150,
+      "y": -2075,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "bf045969-0968-4115-ab5b-b22847927f0d",
+      "width": 300,
+      "x": 5050,
+      "y": -1400,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "ce0e243c-c304-4b60-9457-1f9d09c16ed6",
+      "width": 300,
+      "x": 5500,
+      "y": -1400,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "ed99142a-e4c2-4ab4-990d-c14d94970b31",
+      "width": 0,
+      "x": 5750,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "edc42c2f-ea71-4d77-96c1-8ec194a9f2b4",
+      "width": 0,
+      "x": 5700,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "532e53d4-9e17-4e88-a38b-a81a3984a546",
+      "width": 0,
+      "x": 5650,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "73199ab5-c1a2-4e7d-977f-b5a30f5581b5",
+      "width": 0,
+      "x": 5600,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "88479d22-7b76-494a-9cdf-f3d625881b63",
+      "width": 0,
+      "x": 5550,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "bcc6cbb3-ad20-4aa6-be96-67252f7de17b",
+      "width": 0,
+      "x": 5500,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "9d27b681-59be-41c1-9897-5bc1d7b85efa",
+      "width": 0,
+      "x": 5300,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c1db2a33-a170-4f7a-98a2-d7407575dbfc",
+      "width": 0,
+      "x": 5250,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "cc00e24b-98f1-40a8-b486-4397da5344b7",
+      "width": 0,
+      "x": 5200,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "cf30373f-3188-44bd-92c9-f79624c06647",
+      "width": 0,
+      "x": 5150,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "162ccb3e-13ee-41ea-b349-7e1b65db130b",
+      "width": 0,
+      "x": 5100,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "5bdea57c-4beb-4a8c-8746-4e4280b4e81f",
+      "width": 0,
+      "x": 5050,
+      "y": -1350,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "2b0b9012-c77a-47e2-805a-5c25250d78e9",
+      "width": 0,
+      "x": 5400,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 600,
+      "layer": "",
+      "locked": false,
+      "name": "fondudoor5",
+      "persistentUuid": "a4568e31-21b6-4610-86a8-095824f3584b",
+      "width": 1200,
+      "x": 100,
+      "y": -1700,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 850,
+      "layer": "",
+      "locked": true,
+      "name": "fondudoor5",
+      "persistentUuid": "38aed219-d882-45c0-ae56-2fcf267ef56c",
+      "width": 3400,
+      "x": 0,
+      "y": -2550,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1300,
+      "layer": "",
+      "locked": false,
+      "name": "fondudoor5",
+      "persistentUuid": "51ff5947-d702-4838-91f7-cc7671806046",
+      "width": 900,
+      "x": 2450,
+      "y": -1750,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 2050,
+      "layer": "",
+      "locked": true,
+      "name": "fondudoor5",
+      "persistentUuid": "c5ccea13-43b4-4b21-9938-1ecea2b487eb",
+      "width": 850,
+      "x": 5000,
+      "y": -2500,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 850,
+      "layer": "",
+      "locked": true,
+      "name": "fondudoor5",
+      "persistentUuid": "22797a4f-2304-4dd8-88d3-2b04c7b84429",
+      "width": 3350,
+      "x": 2500,
+      "y": -450,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "spawn_blop",
+      "persistentUuid": "b504b6f3-0b03-4734-bca2-2c2a237db34c",
+      "width": 0,
+      "x": 5250,
+      "y": 350,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "e2a06607-a9b5-428c-ac40-7b67d7b8b145",
+      "width": 0,
+      "x": 5546,
+      "y": 171,
+      "zOrder": 25,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "4204ca9c-378f-4e15-89a8-da049ae81298",
+      "width": 0,
+      "x": 5296,
+      "y": 171,
+      "zOrder": 25,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "9654ce4e-d689-42d7-a569-8a9f412d3d65",
+      "width": 0,
+      "x": 4996,
+      "y": 171,
+      "zOrder": 25,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "82425a3d-acc2-4515-9d9e-7d61b7fdbaa1",
+      "width": 0,
+      "x": 4746,
+      "y": 171,
+      "zOrder": 25,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "spawn_blop",
+      "persistentUuid": "76ad70c7-9de3-4742-8d3c-e54c0456293a",
+      "width": 0,
+      "x": 4400,
+      "y": 350,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "spawn_blop",
+      "persistentUuid": "6f7e86ae-9701-495c-8c35-dc777161580f",
+      "width": 0,
+      "x": 4350,
+      "y": 350,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "spawn_blop",
+      "persistentUuid": "d51272f5-bfe6-4b4f-92d7-c51056b7563f",
+      "width": 0,
+      "x": 3500,
+      "y": 350,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "3a9154cf-e835-4fd7-a8cf-a91fc4e3c0ca",
+      "width": 0,
+      "x": 3796,
+      "y": 171,
+      "zOrder": 25,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "12b3d9b3-9cde-4a0c-b15c-d07929bdd9e9",
+      "width": 0,
+      "x": 3547,
+      "y": 171,
+      "zOrder": 25,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "793542ce-33fe-4ab3-9cdb-474a04781b24",
+      "width": 0,
+      "x": 3246,
+      "y": 171,
+      "zOrder": 25,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "22999239-b97e-4151-9c63-8650adda6b83",
+      "width": 0,
+      "x": 2996,
+      "y": 171,
+      "zOrder": 25,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "spawn_blop",
+      "persistentUuid": "56123d88-1afe-45a4-8f3f-54725a186d7e",
+      "width": 0,
+      "x": 2450,
+      "y": -2400,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 150,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "bfb2faac-923d-4eef-a2f1-0f10a766e5b1",
+      "width": 150,
+      "x": 100,
+      "y": -1900,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "0f132fbf-3fe6-4901-9a19-4810fc5883b8",
+      "width": 0,
+      "x": 1850,
+      "y": -2500,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "1fd7a0e3-3bd0-4d85-b481-3f2ebc9a8775",
+      "width": 500,
+      "x": 2950,
+      "y": -250,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "9dafb96d-6240-4fa9-a12f-420350f40651",
+      "width": 500,
+      "x": 3650,
+      "y": -250,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "70477d43-0769-4c08-a426-21e4f09d626a",
+      "width": 500,
+      "x": 4350,
+      "y": -250,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "hero",
+      "persistentUuid": "687834bc-ccc7-4fd0-816c-ea29b2cf6188",
+      "width": 0,
+      "x": 150,
+      "y": -1115,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colrerv2",
+      "persistentUuid": "27e42f96-181f-4680-8e93-d4e3998a2a4f",
+      "width": 850,
+      "x": 5000,
+      "y": -1800,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colrerv2",
+      "persistentUuid": "8697b2cd-4ca9-4961-b8c6-1f69c3415594",
+      "width": 50,
+      "x": 5700,
+      "y": -2150,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colrerv2",
+      "persistentUuid": "3e27f3b9-45e8-405d-9808-a6c78984c1fa",
+      "width": 50,
+      "x": 5400,
+      "y": -2150,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "colrerv2",
+      "persistentUuid": "014f9d21-da52-46e4-ba10-b9f9b6d81f07",
+      "width": 50,
+      "x": 5100,
+      "y": -2150,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 150,
+      "layer": "",
+      "locked": false,
+      "name": "colred",
+      "persistentUuid": "cd892ebd-bb20-4642-ae92-8e654ccb8867",
+      "width": 1150,
+      "x": 50,
+      "y": 50,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "lopique2",
+      "persistentUuid": "c46f683b-28bb-4b13-a70a-cf4439bc83d4",
+      "width": 0,
+      "x": 400,
+      "y": -1250,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 90,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "rejectobj",
+      "persistentUuid": "ffb7fff2-cd0b-420e-912f-25b9232eb003",
+      "width": 0,
+      "x": 75,
+      "y": -1927,
+      "zOrder": 2,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "rejectobj",
+      "persistentUuid": "4ac56b6b-6171-4c40-8337-657089ce92c3",
+      "width": 0,
+      "x": 500,
+      "y": -1150,
+      "zOrder": 2,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "601b12ca-cc1c-41de-bfca-de02bb70ec86",
+      "width": 0,
+      "x": 1850,
+      "y": -1800,
+      "zOrder": 30,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 1
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "ab2a1641-d2ec-4562-83b8-5ac0f1e011fb",
+      "width": 0,
+      "x": 1850,
+      "y": -1850,
+      "zOrder": 30,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 1
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx2",
+      "persistentUuid": "8ce4d6f8-8c72-4c18-b7d7-2126fa1755cb",
+      "width": 0,
+      "x": 1064,
+      "y": 540,
+      "zOrder": 31,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx2",
+      "persistentUuid": "99bcc7e7-7632-4122-90be-403be8595ab2",
+      "width": 0,
+      "x": 1004,
+      "y": 540,
+      "zOrder": 31,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 3
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx1",
+      "persistentUuid": "ab35fbb4-fa17-406a-9850-ba401e69ee2a",
+      "width": 0,
+      "x": 50,
+      "y": 600,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": true,
+      "name": "platx1",
+      "persistentUuid": "95aee06a-17cb-45de-a2b7-0287209a48b6",
+      "width": 0,
+      "x": 100,
+      "y": 600,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx2",
+      "persistentUuid": "510dd6f5-eb9f-4adc-a16c-2f1a51910629",
+      "width": 0,
+      "x": 945,
+      "y": 540,
+      "zOrder": 31,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 3
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx2",
+      "persistentUuid": "7ec54c68-56ca-404a-b1fc-af0de09a5eba",
+      "width": 0,
+      "x": 885,
+      "y": 540,
+      "zOrder": 31,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 1
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx2",
+      "persistentUuid": "9159cac9-971e-4520-ac52-c34f2863c2bd",
+      "width": 0,
+      "x": 826,
+      "y": 540,
+      "zOrder": 31,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx2",
+      "persistentUuid": "f5729cfc-1c98-4d91-95ea-0afd42461ad4",
+      "width": 0,
+      "x": 766,
+      "y": 540,
+      "zOrder": 31,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx2",
+      "persistentUuid": "21dc29d3-33c6-427d-aeac-8c6ce81ed971",
+      "width": 0,
+      "x": 900,
+      "y": 550,
+      "zOrder": 31,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "platx2",
+      "persistentUuid": "d4ce79e5-394c-4ea6-b031-163c7499a5a6",
+      "width": 0,
+      "x": 750,
+      "y": 500,
+      "zOrder": 31,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "flower",
+      "persistentUuid": "13832791-06f6-472a-a36f-7964757f4d4a",
+      "width": 0,
+      "x": 436,
+      "y": 664,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 3
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "flower",
+      "persistentUuid": "259e59b0-3817-443a-8c95-323c4df4c007",
+      "width": 0,
+      "x": 499,
+      "y": 669,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "flower",
+      "persistentUuid": "5021a2ab-b9e4-4d18-bae9-be404a36c630",
+      "width": 0,
+      "x": 599,
+      "y": 668,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "flower",
+      "persistentUuid": "5492630f-cde9-424e-9a5b-a0a5a5877154",
+      "width": 0,
+      "x": 474,
+      "y": 664,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 4
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "flower",
+      "persistentUuid": "3f0069ec-becd-4be9-99ea-0a5125dd1e34",
+      "width": 0,
+      "x": 650,
+      "y": 667,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "flower",
+      "persistentUuid": "836e9f8f-a60c-4f8b-8428-7cbab73178bf",
+      "width": 0,
+      "x": 601,
+      "y": 667,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "flower",
+      "persistentUuid": "747eff9c-695c-4122-ac66-78fac0c24811",
+      "width": 0,
+      "x": 549,
+      "y": 668,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 1
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "text",
+      "persistentUuid": "75cc6063-b3b8-4b00-b236-e1ae149df8a8",
+      "width": 0,
+      "x": 600,
+      "y": 250,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "text",
+      "persistentUuid": "77cee9a7-f85d-430e-b231-dc3d6203e3c6",
+      "width": 0,
+      "x": 792,
+      "y": 43,
+      "zOrder": 36,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "d7804322-3087-4a33-ab14-2df08115082b",
+      "width": 0,
+      "x": 846,
+      "y": -180,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 12
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "f9411712-9a82-4659-a326-0b348e8306fc",
+      "width": 0,
+      "x": 1000,
+      "y": -200,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "ae8bfaf3-b06c-4d0b-9fe6-da74a1fc649e",
+      "width": 0,
+      "x": 750,
+      "y": -450,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "3f87fb69-b309-4d3c-b3bd-876470f39687",
+      "width": 0,
+      "x": 246,
+      "y": -180,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "dbc20217-a601-491b-855f-1d9e59417074",
+      "width": 0,
+      "x": 646,
+      "y": -180,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 10
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "596a83ea-f0ee-4050-8270-58393725a081",
+      "width": 0,
+      "x": 446,
+      "y": -180,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 4
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "de9fd225-3d07-402f-9a26-805383c96158",
+      "width": 0,
+      "x": 50,
+      "y": -450,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "89042b6e-db4e-4ee2-a01c-2a296a46a97a",
+      "width": 0,
+      "x": 446,
+      "y": -430,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "007140c6-59c0-454e-943c-5fbf6bd03c6b",
+      "width": 0,
+      "x": 550,
+      "y": -650,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "af5f366a-b060-4045-8ca1-df68dd3b8db2",
+      "width": 0,
+      "x": 250,
+      "y": -500,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "c992f768-7315-40b3-85aa-12f40552f4d5",
+      "width": 0,
+      "x": 950,
+      "y": -500,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "155b6733-8c01-4814-82d5-a90a9a1abadd",
+      "width": 0,
+      "x": 800,
+      "y": -700,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "dfa2ad2e-f1f3-4bc1-b03d-bb3c1677e5d8",
+      "width": 0,
+      "x": 250,
+      "y": -750,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "4c7b922f-c97d-417e-9b06-c6cfbdf166f3",
+      "width": 0,
+      "x": 50,
+      "y": -750,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "7b904c74-7887-416f-85e5-9cd1d1e54cfd",
+      "width": 0,
+      "x": 46,
+      "y": -180,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "fa778e32-87d7-450e-a325-d49efc042808",
+      "width": 0,
+      "x": 550,
+      "y": -300,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "45f66088-2ead-4263-9490-fa9f5c9c1703",
+      "width": 0,
+      "x": 400,
+      "y": 500,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "019a2c12-3544-402d-b5a6-a79f7702534f",
+      "width": 0,
+      "x": 500,
+      "y": 400,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "a9e3be2d-4cf4-48de-911a-0a531cc45121",
+      "width": 0,
+      "x": 600,
+      "y": 350,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "5a032267-e06d-45b2-8710-b1961d048a94",
+      "width": 0,
+      "x": 650,
+      "y": 400,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "4880935e-ee72-4fcf-86e7-9b3adcf4fdd5",
+      "width": 0,
+      "x": 700,
+      "y": 400,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "5724db62-7bd7-46f9-bb75-ab393261f3ef",
+      "width": 0,
+      "x": 600,
+      "y": 250,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "83b87723-9b88-4cb9-93e8-0b96aa248e42",
+      "width": 0,
+      "x": 500,
+      "y": 300,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "057bb8a4-dc66-4661-b532-24b8bba2bac2",
+      "width": 0,
+      "x": 550,
+      "y": 200,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "eed4932a-865f-4396-866d-65df979c890b",
+      "width": 0,
+      "x": 450,
+      "y": 150,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "ab7a2748-2154-43e5-b9c1-050a9153fd00",
+      "width": 0,
+      "x": 400,
+      "y": 350,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "text",
+      "persistentUuid": "48790660-569e-46a7-a5e1-54e6c16ff3ab",
+      "width": 0,
+      "x": 583,
+      "y": 386,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "73a70c52-9445-403f-996a-c6bb9325836f",
+      "width": 0,
+      "x": 500,
+      "y": 550,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "9ad4ca9e-7032-4488-ab38-b9fa57c589c3",
+      "width": 0,
+      "x": 600,
+      "y": 500,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "3bf0f9ad-f076-452f-9ea0-6eb04436d2f0",
+      "width": 0,
+      "x": 650,
+      "y": 550,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "85bbff03-b0e1-4da5-8f66-3bd1ed2adbfd",
+      "width": 0,
+      "x": 600,
+      "y": 400,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "0be5ebd1-f2f5-43b0-b9e2-07a672dd7d45",
+      "width": 0,
+      "x": 500,
+      "y": 450,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "8ee7a10b-a285-49c1-962c-c16737dbd7f4",
+      "width": 0,
+      "x": 550,
+      "y": 350,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "a0574896-cbe1-421f-bd66-3721296e2227",
+      "width": 0,
+      "x": 450,
+      "y": 300,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "text",
+      "persistentUuid": "36c81d5a-c3df-4a55-bafd-9f935adaf1bf",
+      "width": 0,
+      "x": 850,
+      "y": 250,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "b080447e-a3af-45f7-9fe7-59cd17a0fe93",
+      "width": 0,
+      "x": 750,
+      "y": 400,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "123aec68-2076-4fcc-b89a-c388e168cfc5",
+      "width": 0,
+      "x": 850,
+      "y": 350,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "29e6ed41-5cac-4f9e-8344-de6a941a10d2",
+      "width": 0,
+      "x": 900,
+      "y": 400,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "c5d25003-631b-403d-b894-7a1758b2af9f",
+      "width": 0,
+      "x": 850,
+      "y": 250,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "08152865-489b-44a2-b43e-af9368f12673",
+      "width": 0,
+      "x": 750,
+      "y": 300,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "60523f8c-debb-47ec-b6e3-c233003e0efa",
+      "width": 0,
+      "x": 800,
+      "y": 200,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "8c7a40a3-0c03-4211-b3b8-c30b54b8cedf",
+      "width": 0,
+      "x": 700,
+      "y": 150,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "text",
+      "persistentUuid": "c8629548-0ce7-4570-a9f4-5bfa13d847ff",
+      "width": 0,
+      "x": 250,
+      "y": 250,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "c03d6176-eb71-4b76-b0ae-baac53037c00",
+      "width": 0,
+      "x": 150,
+      "y": 400,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "d8bbdc61-cc58-4738-8bb9-7e56ee3b189d",
+      "width": 0,
+      "x": 250,
+      "y": 350,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "93029916-f205-4a95-bf42-03f5ddfb06f9",
+      "width": 0,
+      "x": 300,
+      "y": 400,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "e0cca053-a9cd-46b9-8104-74dd963ceb75",
+      "width": 0,
+      "x": 250,
+      "y": 250,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "503c688b-b30e-449c-a03f-f9a9851bcc17",
+      "width": 0,
+      "x": 150,
+      "y": 300,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "0b2c7828-959a-4873-bdd7-dc4f970c1d12",
+      "width": 0,
+      "x": 200,
+      "y": 200,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "cube",
+      "persistentUuid": "f687d38e-d425-4c9b-b0f2-bbdd9bca42d7",
+      "width": 0,
+      "x": 100,
+      "y": 150,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "additive": true,
+      "destroyWhenNoParticles": false,
+      "emitterAngleA": 0,
+      "emitterAngleB": 100,
+      "emitterForceMax": 0,
+      "emitterForceMin": 0,
+      "flow": 200,
+      "maxParticleNb": 4000,
+      "name": "sablez",
+      "particleAlpha1": 255,
+      "particleAlpha2": 255,
+      "particleAlphaRandomness1": 0,
+      "particleAlphaRandomness2": 0,
+      "particleAngle1": 5,
+      "particleAngle2": 20,
+      "particleAngleRandomness1": 0,
+      "particleAngleRandomness2": 0,
+      "particleBlue1": 4,
+      "particleBlue2": 0,
+      "particleGravityX": -20,
+      "particleGravityY": 150,
+      "particleGreen1": 4,
+      "particleGreen2": 0,
+      "particleLifeTimeMax": 15,
+      "particleLifeTimeMin": 15,
+      "particleRed1": 204,
+      "particleRed2": 255,
+      "particleSize1": 100,
+      "particleSize2": 100,
+      "particleSizeRandomness1": 0,
+      "particleSizeRandomness2": 0,
+      "rendererParam1": 0.10000000149011612,
+      "rendererParam2": 0.05000000074505806,
+      "rendererType": "Quad",
+      "tags": "",
+      "tank": -1,
+      "textureParticleName": "etoile85.png",
+      "type": "ParticleSystem::ParticleEmitter",
+      "zoneRadius": 500,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "name": "select3",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "lo9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "headc23",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "mush1test.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NewObjectfdzf",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": []
+    },
+    {
+      "name": "NewObject",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": []
+    }
+  ],
+  "events": [
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarSceneTxt"
+          },
+          "parameters": [
+            "idmap",
+            "=",
+            "\"red\""
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "AddForceXY"
+          },
+          "parameters": [
+            "packill",
+            "800",
+            "0",
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": true,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "camera",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "CameraY"
+          },
+          "parameters": [
+            "",
+            "=",
+            "hero.Y()",
+            "\"\"",
+            "0"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "CameraX"
+          },
+          "parameters": [
+            "",
+            "=",
+            "hero.X()",
+            "\"\"",
+            "0"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "platform3",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "silvers",
+            "=",
+            "100"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "allow_icon_exist",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "hp",
+            "=",
+            "100"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "edit",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "portal",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "take",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "select",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "endurance2",
+            "=",
+            "2"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "endurance8",
+            "=",
+            "2"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "music2",
+            "=",
+            "4"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "poison",
+            "=",
+            "100"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "tnt",
+            "=",
+            "100"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "blue",
+            "=",
+            "100"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "red",
+            "=",
+            "100"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "mod",
+            "=",
+            "100"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "seed",
+            "=",
+            "23"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "build2"
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "environnement"
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "base"
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "presenthis"
+    },
+    {
+      "disabled": true,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "TiledSpriteObject::SetOpacity"
+          },
+          "parameters": [
+            "colrerv2",
+            "=",
+            "200"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "MettreY"
+          },
+          "parameters": [
+            "sablez",
+            "=",
+            "hero.Y()"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "EcrireFichierExp"
+          },
+          "parameters": [
+            "\"config\"",
+            "\"devmod\"",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "LireFichierTxt"
+          },
+          "parameters": [
+            "\"config\"",
+            "\"devmod\"",
+            "2",
+            "devmod"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "MettreX"
+          },
+          "parameters": [
+            "sablez",
+            "=",
+            "hero.X()+1100"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": true,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "camera",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": true,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ChangeColor"
+          },
+          "parameters": [
+            "mushp",
+            "VariableString(firstcolor)+\";\" + VariableString(secondcolor) + \";\" + VariableString(thirdcolor)"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "r"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "firstcolor",
+            "<",
+            "255"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "firstcolor",
+            "+",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "t"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "secondcolor",
+            "<",
+            "255"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "secondcolor",
+            "+",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "y"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "thirdcolor",
+            "<",
+            "255"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "thirdcolor",
+            "+",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "u"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "firstcolor",
+            ">=",
+            "0"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "firstcolor",
+            "-",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "i"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "secondcolor",
+            ">=",
+            "0"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "secondcolor",
+            "-",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "o"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "thirdcolor",
+            ">=",
+            "0"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "thirdcolor",
+            "+",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "hero",
+            "finish",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "onet",
+            "=",
+            "0"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "changescene",
+            "=",
+            "2"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "onet",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "hero",
+            "finish",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarGlobal"
+          },
+          "parameters": [
+            "changescene",
+            "=",
+            "2"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "VarScene"
+          },
+          "parameters": [
+            "onet",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "redboss",
+            "=",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "FileSystem::SaveVariableToJSONFileSync"
+          },
+          "parameters": [
+            "world",
+            "\"saves/world\" + GlobalVariableString(nameload) + \".sav\"",
+            ""
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "PopScene"
+          },
+          "parameters": [
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "TimeScale"
+          },
+          "parameters": [
+            "optiongroup",
+            ">",
+            "0"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "KeyFromTextReleased"
+          },
+          "parameters": [
+            "",
+            "VariableString(controlfoward)"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": [],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "changescene",
+            "=",
+            "2"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "FileSystem::SaveVariableToJSONFileSync"
+          },
+          "parameters": [
+            "world",
+            "\"saves/world\" + GlobalVariableString(nameload) + \".sav\"",
+            ""
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "PopScene"
+          },
+          "parameters": [
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [],
+      "events": []
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 1702453632,
+      "ambientLightColorG": 13101,
+      "ambientLightColorR": 0,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "-4",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 1702453632,
+      "ambientLightColorG": 0,
+      "ambientLightColorR": 0,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "-3",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "-2",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "-1",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "1",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "option",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "menu",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "LightObstacleBehavior",
+      "type": "Lighting::LightObstacleBehavior"
+    },
+    {
+      "name": "Physics2",
+      "type": "Physics2::Physics2Behavior",
+      "gravityX": 0,
+      "gravityY": 9.8,
+      "scaleX": 100,
+      "scaleY": 100
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
+    },
+    {
+      "name": "PlatformerObject",
+      "type": "PlatformBehavior::PlatformerObjectBehavior"
+    }
+  ]
+}

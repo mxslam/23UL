@@ -1,0 +1,36 @@
+{
+  "associatedLayout": "aventure_NEW",
+  "name": "scene15",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lo33",
+      "persistentUuid": "62de85bc-751f-4d99-ab46-13e9f0153cd8",
+      "width": 400,
+      "x": 400,
+      "y": 400,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 50,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 50,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.5720000000000001
+  }
+}

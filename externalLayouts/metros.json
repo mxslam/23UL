@@ -1,0 +1,1222 @@
+{
+  "associatedLayout": "aventure",
+  "name": "metroS",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": true,
+      "name": "lometro1",
+      "persistentUuid": "af01031e-c2d6-443e-aae6-1cba38099e84",
+      "width": 1300,
+      "x": 0,
+      "y": 50,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": true,
+      "name": "col",
+      "persistentUuid": "a65e5d4a-4cb9-4678-a63a-f519d3644b22",
+      "width": 1300,
+      "x": 0,
+      "y": 400,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "4a85aab1-5eb2-48e5-8955-574641fceaea",
+      "width": 1300,
+      "x": 1250,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "0bbf8918-ecb7-4848-969c-06853985e81c",
+      "width": 0,
+      "x": 1250,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "f67693e7-e243-4847-9053-f4f8236d36e9",
+      "width": 1300,
+      "x": 1200,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "e6194d1e-2135-4352-933f-5bd0a5acc44c",
+      "width": 1300,
+      "x": 1200,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "f74bc294-342b-4d1c-8ec5-9fe558bced8f",
+      "width": 0,
+      "x": 1200,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "150cf77b-7f32-4ef6-9d87-a8fa4a4953ab",
+      "width": 1300,
+      "x": 1050,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "0381a6de-a699-4d70-be1c-b1fb2a4f8ba0",
+      "width": 0,
+      "x": 1050,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "7aa7a170-5824-433b-ab9c-cb3dfe353ebc",
+      "width": 1300,
+      "x": 1000,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "35356469-2c87-4348-af50-10194a80d103",
+      "width": 1300,
+      "x": 1000,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "200da63d-5b5d-4fbf-9dfd-8970b1a27d30",
+      "width": 0,
+      "x": 1000,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "0fd568da-d51a-4cfc-8974-e5d1d8516b8d",
+      "width": 1300,
+      "x": 950,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "fcf04a3d-6be0-41c5-bbda-b4f2a81058be",
+      "width": 0,
+      "x": 950,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "d717037d-5d0a-4dfc-b142-daca474329a7",
+      "width": 1300,
+      "x": 900,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "d21175fe-7c0e-4010-8f27-ee9e169127ee",
+      "width": 0,
+      "x": 900,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "0b78892a-922e-4e32-8972-a71220588e53",
+      "width": 1300,
+      "x": 900,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "8b3c8123-b599-4187-8c08-c724f35042dd",
+      "width": 1300,
+      "x": 850,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "1f4bf268-fad1-4997-a8cc-88d08e954f02",
+      "width": 0,
+      "x": 850,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "59ac6973-8877-46a8-a1d1-663783c53440",
+      "width": 1300,
+      "x": 800,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "77134106-b75a-4934-a3b8-8b212382eb2b",
+      "width": 1300,
+      "x": 800,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "7e1ece5b-2cbe-417f-a569-1e09a91016d1",
+      "width": 0,
+      "x": 800,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "ee041e06-2e3d-430b-afa3-097d8e5b430d",
+      "width": 1300,
+      "x": 350,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "ae64edb5-294a-481c-b44b-7f899816242b",
+      "width": 0,
+      "x": 350,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "4961aef4-76a4-4ea6-9c23-4c9774b21246",
+      "width": 1300,
+      "x": 300,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "8f2823b0-f808-4f8e-bc9d-b0f60672f7d6",
+      "width": 1300,
+      "x": 300,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "e294ca6e-903a-404c-8374-679f53d1d84d",
+      "width": 0,
+      "x": 300,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "90fb63ef-6cfe-4b17-a078-cc64b2616ff1",
+      "width": 1300,
+      "x": 250,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "266dc8cf-d904-4f03-a7ae-d5e078c941f4",
+      "width": 0,
+      "x": 250,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "a6b19dbb-0a4d-4f85-904e-24fa86e175ba",
+      "width": 1300,
+      "x": 200,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "1c9c7cfe-8260-4b21-90c6-c48110e3d0fc",
+      "width": 1300,
+      "x": 200,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "9978b39b-8807-4199-9ade-6e0ae9e34b5f",
+      "width": 0,
+      "x": 200,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "0525b7af-2719-4642-afbc-699d82152fc8",
+      "width": 1300,
+      "x": 150,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "98408396-08fe-43ef-8825-8fcdddedc086",
+      "width": 0,
+      "x": 150,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "16e696d9-02b4-46f3-b2ac-bce60ecbf528",
+      "width": 1300,
+      "x": 100,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "ea7c60f9-5d2e-4397-a3f1-29ea1f0d025f",
+      "width": 0,
+      "x": 100,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "9d406658-29ac-4249-848e-8374e20e6203",
+      "width": 1300,
+      "x": 100,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "f5058542-f478-4e96-8f54-ee9234c2a67e",
+      "width": 1300,
+      "x": 50,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "bce0a5b4-9392-42fa-a346-4bd740b292ff",
+      "width": 0,
+      "x": 50,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "4c353d46-9c0a-41ba-b8ec-794f0bfe31d2",
+      "width": 1300,
+      "x": 0,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "56baf77b-e2bb-4cb7-a171-465434118c87",
+      "width": 1300,
+      "x": 0,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "d3e59885-5cb0-48b6-ba10-a9168399c6fa",
+      "width": 0,
+      "x": 0,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "5c721a39-c705-432b-83eb-637e78914384",
+      "width": 1300,
+      "x": 750,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "68bc6e60-f948-4abc-9ea1-d47f36b786f8",
+      "width": 0,
+      "x": 750,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "09dc66ef-5ac9-4ef1-960e-0b4865a82223",
+      "width": 1300,
+      "x": 700,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "53e043cd-e820-4f0e-9ba5-0659a3868e6a",
+      "width": 1300,
+      "x": 700,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "21e5ed72-c640-477b-bc1c-5121573a2b6d",
+      "width": 0,
+      "x": 700,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "8a0f986d-ea15-4291-8541-b34157970e40",
+      "width": 1300,
+      "x": 650,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "0f95b3fd-080f-4fbf-99ae-ff0d3cb9aa69",
+      "width": 0,
+      "x": 650,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "595e251f-b5b5-464d-857b-4c35abe739c1",
+      "width": 1300,
+      "x": 600,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "36c4f458-6846-48f6-af8f-4d93bdf608ca",
+      "width": 1300,
+      "x": 600,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "e4b5bdcd-c215-4d1f-b0c0-9244224b8013",
+      "width": 0,
+      "x": 600,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "1c43dd9b-196b-40aa-bbe1-944c68c3505a",
+      "width": 1300,
+      "x": 550,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "b7248c03-0208-4d0a-a7a6-ffb947f144e5",
+      "width": 0,
+      "x": 550,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "cf5e84a3-0f29-4dd3-9464-b37fc1af41ae",
+      "width": 1300,
+      "x": 500,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "4a023bf2-ebf8-4780-a700-abdf00d5184a",
+      "width": 0,
+      "x": 500,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "1dc63fb0-7778-4057-8fc6-8736f9066784",
+      "width": 1300,
+      "x": 500,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "86fc7023-3cc6-40ee-83c2-235542bcd807",
+      "width": 1300,
+      "x": 450,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "28d87e41-425a-42f2-9ef1-09bfd5a271fb",
+      "width": 0,
+      "x": 450,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "afc8a992-f041-416d-90a3-c4b8e151b5a4",
+      "width": 1300,
+      "x": 400,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "8ff332f1-943c-46da-b3a3-ef61432572b1",
+      "width": 1300,
+      "x": 400,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "cf8a13ec-ea4d-407d-a5df-b511ae43b6e8",
+      "width": 0,
+      "x": 400,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "7e0338f7-0458-4eac-add3-aaca80b5e6ee",
+      "width": 1300,
+      "x": 1150,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "a8832bd9-3abc-4b2e-b62a-7fa74bfaaee1",
+      "width": 0,
+      "x": 1150,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "3efd92fa-1215-4c1a-bc46-c95248a1ed35",
+      "width": 1300,
+      "x": 1100,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lometro1",
+      "persistentUuid": "3a5a65ac-3911-484b-b706-5086dba9d309",
+      "width": 1300,
+      "x": 1100,
+      "y": 400,
+      "zOrder": -10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "d6dd7209-dc44-4ab0-ac03-3677c267f3d9",
+      "width": 0,
+      "x": 1100,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 50,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 50,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.76
+  }
+}

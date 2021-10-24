@@ -1,0 +1,52 @@
+{
+  "associatedLayout": "savedworld",
+  "name": "buy",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "1",
+      "locked": false,
+      "name": "battleath2",
+      "persistentUuid": "db69da9f-3bf7-4945-9c0f-19ab05950a30",
+      "width": 0,
+      "x": 404,
+      "y": 55,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "1",
+      "locked": false,
+      "name": "modbuy",
+      "persistentUuid": "02f9ddca-26d0-46c5-b5ed-8c1ed35a1163",
+      "width": 0,
+      "x": 479,
+      "y": 128,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 50,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 50,
+    "snap": true,
+    "windowMask": true,
+    "zoomFactor": 0.592
+  }
+}

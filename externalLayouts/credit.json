@@ -1,0 +1,68 @@
+{
+  "associatedLayout": "MENU",
+  "name": "credit",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "menu",
+      "locked": true,
+      "name": "menucredit",
+      "persistentUuid": "59f56d6d-9d25-4497-bbe6-c138fdbe8766",
+      "width": 0,
+      "x": 0,
+      "y": 0,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "menu",
+      "locked": false,
+      "name": "credittext",
+      "persistentUuid": "409b13fe-d1ce-47ec-b620-2ffd90df59bb",
+      "width": 0,
+      "x": 498,
+      "y": 244,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "menu",
+      "locked": false,
+      "name": "quitminimenucredit",
+      "persistentUuid": "3c19a9f1-3416-4e72-b430-a3e5b4cf825e",
+      "width": 0,
+      "x": 790,
+      "y": 240,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 1.192
+  }
+}

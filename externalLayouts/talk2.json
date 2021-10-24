@@ -1,0 +1,52 @@
+{
+  "associatedLayout": "aventure",
+  "name": "talk2",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "1",
+      "locked": false,
+      "name": "textbox",
+      "persistentUuid": "2d472cf5-8b07-4290-8bab-78c65cd87fe5",
+      "width": 0,
+      "x": 400,
+      "y": 450,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "1",
+      "locked": false,
+      "name": "text_01",
+      "persistentUuid": "5e771881-f22e-4c7d-8a9a-6af31ccc5034",
+      "width": 0,
+      "x": 427,
+      "y": 473,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.736
+  }
+}
