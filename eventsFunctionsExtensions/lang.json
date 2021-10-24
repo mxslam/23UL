@@ -1,0 +1,61 @@
+{
+  "author": "M-slam",
+  "description": "",
+  "extensionNamespace": "",
+  "fullName": "Lang of the user",
+  "helpPath": "",
+  "iconUrl": "",
+  "name": "lang",
+  "previewIconUrl": "",
+  "shortDescription": "what is the current language of the current user ?",
+  "version": "0.1",
+  "tags": [
+    ""
+  ],
+  "authorIds": [],
+  "dependencies": [],
+  "eventsFunctions": [
+    {
+      "description": "Lang used of the current user, the result is write on a text variable named \"lang\"",
+      "fullName": "Lang used",
+      "functionType": "Action",
+      "name": "userlang",
+      "private": false,
+      "sentence": "Write the lang of the user into \"lang\" variable",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "var userlang = navigator.language; \nruntimeScene.getVariables().get(\"lang\").setString(userlang);",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ]
+        }
+      ],
+      "parameters": [],
+      "objectGroups": []
+    }
+  ],
+  "eventsBasedBehaviors": []
+}

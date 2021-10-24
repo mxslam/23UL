@@ -1,0 +1,248 @@
+{
+  "associatedLayout": "aventure_NEW",
+  "name": "scene48",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "mod",
+      "persistentUuid": "d1787a30-f418-4f48-91fd-051ba16c4491",
+      "width": 0,
+      "x": 0,
+      "y": 4850,
+      "zOrder": 14,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 1
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "6907b5dd-b744-468d-a940-f38627ada4a3",
+      "width": 0,
+      "x": 650,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "1308550f-fa70-464e-8978-829b1c8f9394",
+      "width": 0,
+      "x": 600,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "3aeed003-6ab6-4fe1-865d-ea3c611256d7",
+      "width": 0,
+      "x": 550,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "0b474d6b-c340-42c7-85e9-121a4e25a3d2",
+      "width": 0,
+      "x": 1150,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "54e83354-351c-4def-a9d5-6754351bd53b",
+      "width": 0,
+      "x": 1250,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "27a82880-6b15-44c9-a935-7e3a19fc8144",
+      "width": 0,
+      "x": 1200,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "b7a3c100-e540-4951-b21e-33ba96663a7a",
+      "width": 0,
+      "x": 50,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "1ccbde3d-5cc7-4ab3-a473-d43f02926f45",
+      "width": 0,
+      "x": 0,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "sable01",
+      "persistentUuid": "1965e71e-dc3c-4b45-b620-5a2a38175e6f",
+      "width": 0,
+      "x": 100,
+      "y": 350,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "75cf037b-86fc-4353-834e-236717d05a22",
+      "width": 0,
+      "x": 1096,
+      "y": 121,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "6e31210e-2315-4c7c-aff1-9a518b671dba",
+      "width": 0,
+      "x": -54,
+      "y": 121,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "3afcdfe3-ad49-4033-b3fc-0e59f2ca1aeb",
+      "width": 0,
+      "x": 496,
+      "y": 121,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 50,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 50,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.424
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "associatedLayout": "aventure_NEW",
+  "name": "buildobjetcs",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "1",
+      "locked": true,
+      "name": "longbox",
+      "persistentUuid": "8722baa3-e5f4-4ad6-b752-77fcb62f7cff",
+      "width": 0,
+      "x": 897,
+      "y": 273,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "1",
+      "locked": false,
+      "name": "build_inv_icon",
+      "persistentUuid": "962122b9-4cab-4a0f-af95-d2024a0a7e0f",
+      "width": 0,
+      "x": 925,
+      "y": 354,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.6799999999999993
+  }
+}

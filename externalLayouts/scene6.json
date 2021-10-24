@@ -1,0 +1,293 @@
+{
+  "associatedLayout": "aventure_NEW",
+  "name": "scene6",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "2f2b4450-4da2-485b-ad47-dbc5bb370b99",
+      "width": 0,
+      "x": 696,
+      "y": 170,
+      "zOrder": 14,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "arbre2",
+      "persistentUuid": "d7eb5651-359b-49da-b9e2-5bc337a075ae",
+      "width": 0,
+      "x": 446,
+      "y": 170,
+      "zOrder": 14,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "flower",
+      "persistentUuid": "99b6b7d2-c82f-4c85-bc64-3f34139b3fc8",
+      "width": 0,
+      "x": 634,
+      "y": 285,
+      "zOrder": 15,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 3
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "0352c3d0-0d1a-4cb4-89d7-2bc73a6c502a",
+      "width": 0,
+      "x": 900,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "9c6c148a-4195-4a6c-93cd-aff00a305b6f",
+      "width": 0,
+      "x": 850,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "093f9b25-0980-40ed-b60b-182de09e9c62",
+      "width": 0,
+      "x": 600,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "8eee9842-7b4c-4867-801c-246e18b39f42",
+      "width": 0,
+      "x": 550,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "e6015a9b-13f9-4bda-a602-fd0d7108b211",
+      "width": 0,
+      "x": 500,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "ffa21452-2755-40c6-be74-0ea779951d31",
+      "width": 0,
+      "x": 450,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "52c18834-3e77-4f72-b345-51c26ea9ed88",
+      "width": 0,
+      "x": 800,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "c35245db-1689-4035-9cf7-d6d46bac6c8e",
+      "width": 0,
+      "x": 750,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "b39c7db2-3781-4a0c-9512-a15f970c26d1",
+      "width": 0,
+      "x": 700,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "herbe01",
+      "persistentUuid": "1316a2da-d9c2-4b2f-9988-5dda4a829f6a",
+      "width": 0,
+      "x": 650,
+      "y": 400,
+      "zOrder": 16,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 50,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 50,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 1.552
+  }
+}

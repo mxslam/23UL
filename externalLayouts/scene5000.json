@@ -1,0 +1,73 @@
+{
+  "associatedLayout": "aventure_NEW",
+  "name": "scene5000",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "rosedj",
+      "persistentUuid": "79522902-8b9c-4983-b9f0-27f56b0c94db",
+      "width": 0,
+      "x": 550,
+      "y": 300,
+      "zOrder": 0,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 1
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "nameofdjgreen",
+      "persistentUuid": "6eab9287-410b-4054-9db5-611b196324c7",
+      "width": 0,
+      "x": 552,
+      "y": 300,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "locked": false,
+      "name": "lo33",
+      "persistentUuid": "e35c05c2-02e7-46c8-b1c5-7cac22c17d8e",
+      "width": 350,
+      "x": 450,
+      "y": 450,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 50,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 50,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.544
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "associatedLayout": "aventure_NEW",
+  "name": "scene2",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "2d79ca3c-7e1d-44f8-a92b-d47528541006",
+      "width": 0,
+      "x": 900,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "4d9dea0a-5fd9-4bcc-9ecb-330b98a08fee",
+      "width": 0,
+      "x": 800,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "6a8fb599-1398-4310-b8b2-afe029fdc64c",
+      "width": 0,
+      "x": 650,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "a8313614-62e4-4ee0-92e5-f5a6a87554a0",
+      "width": 0,
+      "x": 600,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "b8e03c5e-9487-4f9b-b7c4-8328ee394a6c",
+      "width": 0,
+      "x": 550,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "e68a2f7d-1ac9-4533-b032-29061668edfa",
+      "width": 0,
+      "x": 500,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "85abb027-a1aa-43d5-a142-42076c47c9b7",
+      "width": 0,
+      "x": 450,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "f6f089d6-f727-404f-9ca6-3fbcea2318dd",
+      "width": 0,
+      "x": 400,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "d0e6dc42-066b-40ca-8adc-6d18ae02e9d0",
+      "width": 0,
+      "x": 750,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "801df2fe-b8f2-4463-87f7-b3dbe2977dce",
+      "width": 0,
+      "x": 700,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "ef9c78d8-3a72-4d41-8e75-d77602197ec3",
+      "width": 0,
+      "x": 850,
+      "y": 400,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "88e4bbed-b39a-4d81-a750-e47e35b1b468",
+      "width": 0,
+      "x": 700,
+      "y": 350,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 4
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "b9eb7f87-d5eb-4944-9118-af161d77ae73",
+      "width": 0,
+      "x": 500,
+      "y": 350,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 4
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "44c92e8d-fef0-469c-bf78-d5af3ee46862",
+      "width": 0,
+      "x": 700,
+      "y": 200,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 3
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "258bdc29-7f9d-475c-b555-3d3896f87bb7",
+      "width": 0,
+      "x": 350,
+      "y": 400,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "58a1dc0a-ff56-4df9-b569-b8890dea47b3",
+      "width": 0,
+      "x": 350,
+      "y": 350,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "eee71186-fb48-4d63-960c-8043f4533965",
+      "width": 0,
+      "x": 900,
+      "y": 350,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "72019437-287f-40b1-a7ee-c3086bd78878",
+      "width": 0,
+      "x": 775,
+      "y": 350,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "marioplat",
+      "persistentUuid": "ed116ee9-f092-4e5b-aa06-e5aa8fd84312",
+      "width": 0,
+      "x": 500,
+      "y": 200,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 3
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 25,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 25,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.49199999999999894
+  }
+}

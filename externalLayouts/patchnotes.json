@@ -1,0 +1,68 @@
+{
+  "associatedLayout": "MENU",
+  "name": "patchnotes",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "option",
+      "locked": true,
+      "name": "patch_notes",
+      "persistentUuid": "a7c3d2da-4660-499d-ba30-832e0f5a0848",
+      "width": 0,
+      "x": 0,
+      "y": 0,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "option",
+      "locked": false,
+      "name": "text_patch",
+      "persistentUuid": "0e43ae0a-75b0-4a7b-a01f-4ba8abcaa043",
+      "width": 0,
+      "x": 238,
+      "y": 160,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "option",
+      "locked": false,
+      "name": "quitminimenupatch",
+      "persistentUuid": "bb67ca23-fb11-4645-94cf-5f16ee5afee2",
+      "width": 0,
+      "x": 1067,
+      "y": 135,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 0.592
+  }
+}
